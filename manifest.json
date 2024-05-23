@@ -2,7 +2,7 @@
   "name": "com.kubs.Kolony",
   "version": "0.0.1",
   "displayName": "Kubs Controller",
-  "description": "How Kubs work the Update loop",
+  "description": "How Kubs work and the Update loop",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
