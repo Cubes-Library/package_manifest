@@ -1,0 +1,18 @@
+{
+  "name": "com.kub.kolonygroup",
+  "version": "0.0.1",
+  "displayName": "Kub Kolony",
+  "description": "This is a Kub Colony package",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.bitheads.braincloud": "https://github.com/getbraincloud/braincloud-unity-package.git",
+    "com.kub.kolony": "https://github.com/Cubes-Library/Kolony.git",
+    "com.kub.persona": "https://github.com/Cubes-Library/KubPersona.git",
+    "com.kub.auth": "https://github.com/Cubes-Library/KubAuth.git#latest"
+ },
+ "author": {
+    "name": "Kubs",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
