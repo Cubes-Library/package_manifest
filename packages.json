@@ -6,7 +6,7 @@
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.bitheads.braincloud": "https://github.com/getbraincloud/braincloud-unity-package.git",
+    "com.bitheads.braincloud": "https://github.com/getbraincloud/braincloud-unity-package.git"
   },
  "author": {
     "name": "Unity",
