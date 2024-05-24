@@ -1,0 +1,6 @@
+{  
+  "dependencies": {
+    "com.newtonsoft.json": "com.unity.nuget.newtonsoft-json",
+    "com.braincloud.client": "https://github.com/getbraincloud/braincloud-unity-package.git"
+  }
+}

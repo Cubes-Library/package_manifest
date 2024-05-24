@@ -4,5 +4,5 @@
     "com.braincloud.client": "https://github.com/getbraincloud/braincloud-unity-package.git"
   },
   "enableLockFile": true,
-  "resolutionStrategy": "highestMinor",
+  "resolutionStrategy": "highestMinor"
 }
