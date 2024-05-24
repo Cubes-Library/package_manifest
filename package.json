@@ -1,16 +1,12 @@
 {
   "name": "com.kubs.Kolony",
+  "category": "Backend-as-a-Service",
   "version": "0.0.1",
-  "displayName": "Kubs Controller",
+  "displayName": "KubsController",
   "description": "How Kubs work and the Update loop",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
-  "author": {
-    "name": "Unity",
-    "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
-  }
+  "keywords": [
+    "back-end"
+  ]
 }

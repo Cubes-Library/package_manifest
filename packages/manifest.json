@@ -1,8 +1,7 @@
 {  
   "dependencies": {
-    "com.kubs.kolony": "https://github.com/Cubes-Library/Kolony.git"
+    "com.braincloud.client": "https://github.com/getbraincloud/braincloud-unity-package.git"
   },
   "enableLockFile": true,
   "resolutionStrategy": "highestMinor",
-  "testables": [ "com.unity.package-1", "com.unity.package-2" ]
 }
