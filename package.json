@@ -5,10 +5,7 @@
   "displayName": "KubsController",
   "description": "How Kubs work and the Update loop",
   "unity": "2019.1",
-  "unityRelease": "0b5",
-   "dependencies": {
-    "com.braincloud.client": "https://github.com/getbraincloud/braincloud-unity-package.git"    
-  },
+  "unityRelease": "0b5",  
   "keywords": [
     "back-end"
   ]
