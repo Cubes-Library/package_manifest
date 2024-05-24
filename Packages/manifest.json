@@ -1,6 +1,6 @@
 {  
   "dependencies": {
-    "com.bitheads.braincloud": "https://github.com/getbraincloud/braincloud-unity-package.git#v5.3.0"
+    "com.bitheads.braincloud": "git://github.com/getbraincloud/braincloud-unity-package.git#v5.3.0"
   },
   "enableLockFile": true,
   "resolutionStrategy": "highestMinor"
